@@ -1,0 +1,11 @@
+{
+  "name": "TypeScript-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lhp96/TypeScript-learn.git",
+  "author": "luhuipeng <973880264@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
