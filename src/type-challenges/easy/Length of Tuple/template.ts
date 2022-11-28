@@ -1,0 +1,1 @@
+type Length<T extends readonly any[]> = T extends { 'length': 0 } ? never : T['length']
