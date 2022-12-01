@@ -1,0 +1,1 @@
+type Last<T extends any[]> = T extends [...infer F, infer E] ? E : never
